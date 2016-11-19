@@ -1,0 +1,15 @@
+CNN - xLearn
+
+Features:
+
+  - Create image database from existing annotated images
+  - Create image database by downloading images of particular class from internet
+  - Define feature vector creation method - mainly CNN arch
+  - Select from pre existing famous CNN archs
+  - Initialize weights with networks trained on millions of images - for fine tuning
+  - Select classification method - NN / SVM / Linear / Random Forest / XGoost / Scikit Learn / Custom Python Classifier
+  - Initialize classifier weights from pre trained networks - ability to select
+  - Classifiy any given image and give detailed results
+  - When selecting model for testing, ability to change classifier or feature generator to see variations
+
+
